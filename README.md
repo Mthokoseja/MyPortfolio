@@ -108,8 +108,8 @@ __Ms Azure__
 
 - [The Open cart](https://www.opencart.com/) was used to create demo test cases
 
-  * Test case for account registration (in English). Check [the Google Sheets document here](https://drive.google.com/file/d/1NQTIlo6gNhV2NF_HhuDRhR4tvjKPJDgV/view)
-  * Test case for checking the addition of items to the cart (in English). Check [the Google Sheets document here](https://drive.google.com/file/d/1m6Q3kSIt6wT-B507c3kvrvTzCKmdwFUO/view)
+  * Test case for account registration (in English). Check [the Google Sheets document here](https://drive.google.com/file/d/1m6Q3kSIt6wT-B507c3kvrvTzCKmdwFUO/view)
+  * Test case for checking the addition of items to the cart. (in English). Check [the Google Sheets document here](https://drive.google.com/file/d/1NQTIlo6gNhV2NF_HhuDRhR4tvjKPJDgV/view)
 
 ### Test cases Automation testing
 

@@ -107,7 +107,8 @@ __Ms Azure__
 ### Test cases  Manual testing
 
 - [The Open cart](https://www.opencart.com/) was used to create demo test cases
-  * Test case for checking the checkout process (in English). Check [the Google Sheets document here](https://docs.google.com/spreadsheets/d/1NpgiyQr2mx2YKddbXOFi7YygWE_jUve3spzscLkpTuY/edit?usp=sharing)
+
+  * Test case for account registration (in English). Check [the Google Sheets document here](- https://drive.google.com/file/d/1NQTIlo6gNhV2NF_HhuDRhR4tvjKPJDgV/view)
   * Test case for checking the addition of items to the cart (in English). Check [the Google Sheets document here](https://docs.google.com/spreadsheets/d/1PTc-aPCKWBm4B3aaTPsvJ5wgW0P-KkpvaclZAbQzTZY/edit#gid=0)
 
 ### Test cases Automation testing

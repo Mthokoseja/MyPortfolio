@@ -9,7 +9,7 @@ seja.mthoko@gmail.com
 - [Tools](#tools)
 - [Courses](#courses)
 - [Examples of my work](#examples-of-my-work)
-  * [Test cases and work in TestProject](#Test-cases-Manual-testing)
+  * [Test cases and work in TestProject](#Bugs-and-report-In-TestProject-Agent)
   * [Bug reports and work in manual Testing](#Test-cases-Automation-testing)
   
   

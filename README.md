@@ -115,7 +115,7 @@ __Ms Azure__
 
 __Bugs and report In TestProject Agent__  
 1. Mobile App Job report (in English). Check [pdf job report here](https://drive.google.com/file/d/12MO0UXv-WcB2W6OGjbCKD90SMw8Pq_HO/view?usp=share_link)
-2. 
+2. WevApp Job report for Signup (in English). Check [pdf job report here](https://drive.google.com/file/d/1JOnSuIiX6clqgd4Zd71X7nc6Nbt5bsaK/view?usp=share_link)
 __Bugs and report In Selenium__ 
  
 

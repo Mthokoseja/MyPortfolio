@@ -19,11 +19,11 @@ My name is Mthokozisi seja,currently I am a Developer,being a developer has been
 
 Now, I wish to exploit my research and analytical skills in software testing. Currently, I am intensively studying techniques and tools by attending online courses and testing web applications created for learning purposes.
 
-Reason why I persue this kind of profession, I have developed web and mobile-based applications,during developement I encountered different types of errors and bugs,therefore i would test them manually which is frustrating because it requires more time and It is susceptible to human errors.
+Reason why I am persuing this kind of profession, I have developed web and mobile-based applications,during developement I've encountered different types of errors and bugs,therefore I would test them manually which is frustrating because it requires more time and It is susceptible to human errors.
 
-I researched effective ways to test applications thats when i was ontroduces to Automation testing, I fell inlove with Selenium testing.
+I researched effective ways to test applications thats when I was introduced to Automation testing, I fell inlove with Selenium testing.
 
-My mission is to share my testing knowledge and exhibit my technical skills I that during the testing course and practices I have completed and through self-learning. I am determined to prove the skills I have already acquired and keep developing in this field. This is why I am now looking for a junior position in testing.
+My mission is to share my testing knowledge and exhibit my technical skills I that i have learnt during the testing course and practices I have completed and through self-learning. I am determined to prove the skills I have already acquired and keep developing in this field. This is why I am now looking for a  position in software testing.
 
 
 ## CV

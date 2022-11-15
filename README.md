@@ -92,6 +92,11 @@ __Seleniumt Automation,__
 An intensive course in test automation .  
 *in progress*
 
+__CI CD pipeline - Devops Automation,__  
+*online courses by [Edureka](https://www.udemy.com/course/learn-devops/)*  
+A Fundamentals course in DevOps automation .  
+*in progress*
+
 __Ms 365__  
  demonstrating foundational-level knowledge of Software as a Service (SaaS) solutions to facilitate productivity on-site, at home, or a combination of both   
 [Link to the certificate](https://www.credly.com/badges/46b411b9-c1f1-4c40-a686-cf9c0f2171ce/public_url)

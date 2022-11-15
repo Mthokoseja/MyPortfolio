@@ -15,15 +15,15 @@ seja.mthoko@gmail.com
   
 
 ## About me
-My name is Mthokozisi seja,currently I am a Developer,being a developer has been a milestome in my professional career and the position as a developer has been, my professional goal due to the variety of tasks and development opportunities.
+My name is Mthokozisi seja,currently I am a Developer,being a developer has been a milestome in my professional career and the position as a developer has been my professional goal due to the variety of tasks and development opportunities.
 
 Now, I wish to exploit my research and analytical skills in software testing. Currently, I am intensively studying techniques and tools by attending online courses and testing web applications created for learning purposes.
 
 Reason why I am persuing this kind of profession, I have developed web and mobile-based applications,during developement I've encountered different types of errors and bugs,therefore I would test them manually which is frustrating because it requires more time and It is susceptible to human errors.
 
-I researched effective ways to test applications thats when I was introduced to Automation testing, I fell inlove with Selenium testing.
+I researched effective ways to test applications thats when I was introduced to Automation testing, I fell inlove with Selenium  automation testing.
 
-My mission is to share my testing knowledge and exhibit my technical skills I that i have learnt during the testing course and practices I have completed and through self-learning. I am determined to prove the skills I have already acquired and keep developing in this field. This is why I am now looking for a  position in software testing.
+My mission is to share my testing knowledge and exhibit my technical skills  that i have learnt during the testing course and practices I have completed and through self-learning. I am determined to prove the skills I have already acquired and keep developing in this field. This is why I am now looking for a  position in software testing.
 
 
 ## CV
@@ -35,6 +35,7 @@ You can find examples of the described skills in the [Examples of my work](#exam
 __Developer__
   * I developed Web, Mobile  Application using variour frameworkss
   * Familiar with MVC approach
+  *Firebase
   * Still doing self teaching lessons on  developing desktop Applications
 
 __Manual testing__

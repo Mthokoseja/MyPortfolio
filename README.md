@@ -15,15 +15,15 @@ seja.mthoko@gmail.com
   
 
 ## About me
-My name is Mthokozisi seja,currently I am a Developer,being a developer has been a milestome in my professional career and the position as a developer has been my professional goal due to the variety of tasks and development opportunities.
+My name is Mthokozisi seja,currently I am a Developer,being a developer has been a milestone in my professional career and the position as a developer has been my professional goal due to the variety of tasks and development opportunities.
 
 Now, I wish to exploit my research and analytical skills in software testing. Currently, I am intensively studying techniques and tools by attending online courses and testing web applications created for learning purposes.
 
-Reason why I am persuing this kind of profession, I have developed web and mobile-based applications,during developement I've encountered different types of errors and bugs,therefore I would test them manually which is frustrating because it requires more time and It is susceptible to human errors.
+Reason why I am pursuing this kind of profession, I have developed web and mobile-based applications,during development I've encountered different types of errors and bugs,therefore I would test them manually which is frustrating because it requires more time, and It is susceptible to human errors.
 
-I researched effective ways to test applications thats when I was introduced to Automation testing, I fell inlove with Selenium  automation testing.
+I researched effective ways to test applications that's when I was introduced to Automation testing, I fell in-love with Selenium  automation testing.
 
-My mission is to share my testing knowledge and exhibit my technical skills  that i have learnt during the testing course and practices I have completed and through self-learning. I am determined to prove the skills I have already acquired and keep developing in this field. This is why I am now looking for a  position in software testing.
+My mission is to share my testing knowledge and exhibit my technical skills  that I have learnt during the testing course and practices I have completed and through self-learning. I am determined to prove the skills I have already acquired and keep developing in this field. This is why I am now looking for a  position in software testing.
 
 
 ## CV
@@ -33,13 +33,13 @@ You can download my CV as [a PDF from my Google Drive](https://drive.google.com/
 
 You can find examples of the described skills in the [Examples of my work](#examples-of-my-work) section.
 __Developer__
-  * I developed Web, Mobile  Application using variour frameworkss
+  * I developed Web, Mobile  Application using various frameworks
   * Familiar with MVC approach
   *Firebase
-  * Still doing self teaching lessons on  developing desktop Applications
+  * Still doing self-teaching lessons on  developing desktop Applications
 
 __Manual testing__
-  * can perform manual GUI, usability,functional and Nonfuntional testing of web applications
+  * can perform manual GUI, usability,functional and nonfunctional testing of web applications
   * gained hands-on experience by testing applications created for educational purposes
 
 __Automation testing__
@@ -55,13 +55,13 @@ __Test documentation__
   * able to prepare comprehensive bug reports and provide detailed session reports
 
 __SQL databases__
-  * can write complex requests using subqueries
+  * can write complex requests using sub-queries
   * familiar with the use of aliases and wildcards
   * know the difference between joins and unions and can use them in queries
 
 __Python, Java and Java script fundamentals__
   * can write  functions and algorithms
-  * familiar with classes, proparties and objects
+  * familiar with classes, properties and objects
   * able to comprehend easy codes
 
 ## Tools
@@ -81,14 +81,14 @@ __VirtualBox__
   * able to set up and operate virtual machines
 
 __Git__
-  * know how to deploy and conrol version af application or code
+  * know how to deploy and version control of application or code
 
 __Microsoft 365 Suite__
-  * know how collaborate and work effienct with MS product and applications (Power Apps, Power Bi, Sharepoint, MS Teams, MS office and more)
+  * know how collaborate and work efficient with MS product and applications (Power Apps, Power Bi, Sharepoint, MS Teams, MS Office and more)
 
 ## Courses
 
-__Seleniumt Automation,__  
+__Selenium Automation,__  
 *online courses by [Edureka](https://www.edureka.co/selenium-certification-training?utm_source=hometrending&utm_campaign=trendingcourses)*  
 An intensive course in test automation .  
 *in progress*

@@ -27,7 +27,7 @@ My mission is to share my testing knowledge and exhibit my technical skills  tha
 
 
 ## CV
-You can download my CV as [a PDF from my Google Drive](https://drive.google.com/file/d/1d46NU_J6sL_T2lbfDhgRs_uoxtQh9r-6/view?usp=share_link).
+You can download my CV as [a PDF from my Google Drive](https://drive.google.com/file/d/1vzHTyrBKjchhoUcRJx7Oz1MFQP-NTlRW/view?usp=sharing).
 
 ## Skills
 
@@ -86,12 +86,19 @@ __Git__
 __Microsoft 365 Suite__
   * know how collaborate and work efficient with MS product and applications (Power Apps, Power Bi, Sharepoint, MS Teams, MS Office and more)
 
-## Courses
+## Certificates
 
-__Selenium Automation,__  
-*online courses by [Edureka](https://www.edureka.co/selenium-certification-training?utm_source=hometrending&utm_campaign=trendingcourses)*  
+__Certified Tester ISTQB® Foundation 
+Level (CTFL),__  
+*online courses by [Udemy](https://www.edureka.co/selenium-certification-training?utm_source=hometrending&utm_campaign=trendingcourses)*  
 An intensive course in test automation .  
-*in progress*
+*Completed*
+
+__Selenium WebDriver: Automation 
+Testing with Python,__  
+*online courses by [Udemy(https://www.edureka.co/selenium-certification-training?utm_source=hometrending&utm_campaign=trendingcourses)*  
+An intensive course in test automation .  
+*Completed*
 
 __CI CD pipeline - Devops Automation,__  
 *online courses by [Edureka](https://www.udemy.com/course/learn-devops/)*  
